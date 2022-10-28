@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+h1{
+    color: black;
+}
+
+.background{
+    padding: 10px;
+}
+
+.greenbackground{
+    padding: 10px;
+    background-color: rgba(0, 100, 0, 0.5);
+}
+
+#cool{
+    border: 2px solid pink;
+}
+
+.navigation{
+    background-color: rgba(0, 100, 0, 0.5);
+}
+
